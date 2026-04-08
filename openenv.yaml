@@ -1,0 +1,15 @@
+name: data-engineering-pipeline
+version: 2.0.0
+description: "Advanced Multi-Table Data Engineering Pipeline with schema drift, join corruption, nested JSON corruption, and adversarial log signals."
+tasks:
+  - id: easy_data_cleaning
+    description: "Clean the users.csv table: standardize signup_date to YYYY-MM-DD, handle null emails, normalize user_id types to integers."
+  - id: medium_join_repair
+    description: "Fix the join between users.csv and transactions.csv by normalizing user_id formats, then merge and extract metadata JSON into flat columns."
+  - id: hard_root_cause_analysis
+    description: "Correlate transactions, users, and logs to identify the root cause of data corruption. Filter misleading log noise, find the true signal (user ID format mismatch), and produce a clean joined dataset with all fields extracted."
+metadata:
+  domain: data-engineering
+  difficulty: mixed
+  author: openenv-team
+  license: MIT

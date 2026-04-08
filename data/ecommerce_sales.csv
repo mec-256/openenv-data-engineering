@@ -1,0 +1,501 @@
+order_id,transaction_date,product,amount,customer_name
+ORD-1000,01-13-2024,Purpose,321.52,Patrick Sanchez
+ORD-1001,03-12-2024,Chair,126.22,Megan Mcclain
+ORD-1002,2024-10-06,Begin,339.97,Amanda Davis
+ORD-1003,2024-01-16,Early,213.85,Alyssa Gonzalez
+ORD-1004,2024-11-04,Rate,120.17,Jennifer Cole
+ORD-1005,11-28-2024,Fall,103.42,Abigail Shaffer
+ORD-1006,17/08/2024,Save,212.66,Donald Lewis
+ORD-1007,01-04-2024,Source,405.67,Brandon Davis
+ORD-1008,2024-08-04,Throw,84.03,Dennis Williams
+ORD-1009,2024-06-21,Machine,81.96,Valerie Gray
+ORD-1010,"Jul 02, 2024",Old,193.06,Mark Mcclure
+ORD-1011,01-23-2024,High,303.84,Michele Williams
+ORD-1012,2024-07-12,Drive,270.43,Victoria Wyatt
+ORD-1013,11-17-2024,Trial,150.12,Donald Reid
+ORD-1014,2024-10-22,His,431.54,Henry Santiago
+ORD-1015,2024-12-04,Science,39.43,Maria Lynch
+ORD-1016,"Feb 10, 2024",Congress,148.25,Danielle Ford
+ORD-1017,2024-07-13,Expect,433.91,Margaret Hawkins DDS
+ORD-1018,2024-07-05,Threat,319.66,Amy Underwood
+ORD-1019,2024-12-09,Support,180.86,Derek Clark
+ORD-1020,2024-11-27,Yes,468.64,Michelle Lewis
+ORD-1021,09-30-2024,Money,319.31,Thomas Ellis
+ORD-1022,2024-07-13,Evidence,85.88,Patrick Ryan
+ORD-1023,18/12/2024,Skin,463.07,Stephanie Ross
+ORD-1024,2024-01-29,Discuss,343.88,Brenda Snyder PhD
+ORD-1025,10/06/2024,Traditional,20.89,Mark Conner
+ORD-1026,"Oct 17, 2024",Knowledge,37.76,Janice Carlson
+ORD-1027,01/12/2024,Management,160.77,Tricia Valencia
+ORD-1028,25/11/2024,Activity,442.92,Ashley Dyer
+ORD-1029,05-06-2024,Social,136.12,Martin Rodriguez
+ORD-1030,26/10/2024,Learn,271.79,Aaron Bowen
+ORD-1031,2024-07-04,Serve,293.85,Jonathan White
+ORD-1032,17/09/2024,While,498.78,Mario Skinner
+ORD-1033,2024-02-26,Movement,379.11,Brittany Farmer
+ORD-1034,14/12/2024,Notice,84.19,Tammy Sellers
+ORD-1035,14/07/2024,Place,36.45,Alec Hickman
+ORD-1036,2024/13/01,Unit,236.68,Dr. Cynthia Allen
+ORD-1037,12-14-2024,Our,471.5,Angelica Tucker
+ORD-1038,10-01-2024,Authority,342.45,Kim Martinez
+ORD-1039,2024-06-23,Receive,385.46,Joshua Baker
+ORD-1040,2024-08-20,Turn,220.21,Tracey Hickman
+ORD-1041,2024/13/01,Someone,362.44,Christina Collins
+ORD-1042,"Feb 24, 2024",Remain,93.43,Jessica Holmes
+ORD-1043,23/11/2024,Camera,152.73,Austin Smith
+ORD-1044,07-10-2024,Once,103.46,Daniel Jones
+ORD-1045,tbd,Program,271.99,Austin Johnson
+ORD-1046,2024-01-10,Give,165.46,David Caldwell
+ORD-1047,2024-06-06,Difficult,184.68,Miranda Khan
+ORD-1048,unknown,Part,124.23,Richard Aguirre
+ORD-1049,tbd,Customer,367.29,Matthew Gomez
+ORD-1050,03-06-2024,Item,384.09,Nicholas Nunez
+ORD-1051,2024-03-25,Race,473.69,James Morgan
+ORD-1052,tbd,Training,436.85,Corey Herrera
+ORD-1053,2024-12-19,Challenge,378.86,Donald Wright
+ORD-1054,12-09-2024,Wind,159.3,Robert Chase
+ORD-1055,21/09/2024,Billion,221.86,Zachary Huff
+ORD-1056,2024-02-02,Better,127.71,Sarah Martin
+ORD-1057,27/04/2024,Mention,296.21,Dr. Steven Martin
+ORD-1058,12-28-2024,Able,8.56,Mrs. Rachel Gibson
+ORD-1059,"Jan 17, 2024",Land,118.33,Monica Logan
+ORD-1060,2024-05-01,Recently,40.07,Brittney Phillips
+ORD-1061,2024-10-03,Article,245.28,Kimberly Adkins
+ORD-1062,19/10/2024,Art,468.08,John Calhoun
+ORD-1063,"Aug 30, 2024",Nice,125.28,Tyler Miller
+ORD-1064,02-19-2024,Cultural,99.25,Barry Hensley
+ORD-1065,29/07/2024,International,180.38,Steve Sanchez
+ORD-1066,12-10-2024,Phone,365.89,Bradley Sandoval
+ORD-1067,01/02/2024,Other,324.86,Taylor Harris
+ORD-1068,2024-02-25,Sense,172.95,Derek Anderson
+ORD-1069,2024-08-17,Quite,99.15,Eugene Walton
+ORD-1070,2024-08-24,Baby,95.83,Marc Hart
+ORD-1071,"Aug 14, 2024",Black,462.02,Daniel Baker
+ORD-1072,2024-02-20,Worker,428.7,Benjamin Sanchez
+ORD-1073,2024/13/01,Feel,499.64,Roy Warner
+ORD-1074,26/03/2024,Population,425.1,Dr. Kendra Contreras
+ORD-1075,N/A,Once,243.27,Matthew Mcmillan
+ORD-1076,2024-07-18,Center,192.59,Steve Newton
+ORD-1077,2024-08-20,Clearly,393.11,Larry Robbins
+ORD-1078,10-11-2024,Democrat,349.81,Sarah Wagner
+ORD-1079,2024-04-07,Enter,245.9,Sarah Davis
+ORD-1080,10-23-2024,Land,484.51,Amanda Cook
+ORD-1081,2024-06-09,Case,35.17,Deborah Figueroa
+ORD-1082,tbd,Ok,294.17,Kristina Rodriguez
+ORD-1083,2024-09-17,You,82.93,Stephanie Gardner
+ORD-1084,2024-10-31,They,96.98,Juan Jordan
+ORD-1085,2024-07-25,Analysis,431.6,Steven Flynn
+ORD-1086,06/05/2024,Traditional,445.69,Hunter Fleming
+ORD-1087,11/02/2024,Reflect,24.67,Richard Henson
+ORD-1088,2024-09-24,Investment,293.92,Nicole Frost
+ORD-1089,12-08-2024,Economic,134.08,Vanessa Cochran
+ORD-1090,2024-07-21,Upon,123.15,Christopher Middleton
+ORD-1091,2024-08-22,Stay,324.52,Rebekah Shields
+ORD-1092,2024-02-07,Talk,377.17,Christopher Haynes
+ORD-1093,unknown,Idea,312.47,Shannon Walker
+ORD-1094,2024-09-16,Technology,271.13,Hannah Hoover
+ORD-1095,"Feb 05, 2024",Try,466.96,Alexander Lee
+ORD-1096,21/03/2024,Get,187.92,Benjamin Ayala
+ORD-1097,06-03-2024,Have,273.89,Jennifer Zavala
+ORD-1098,30/11/2024,Not,493.68,Alexander Wiley
+ORD-1099,2024-10-10,Every,335.59,Victor Baker
+ORD-1100,2024-03-09,Boy,333.38,Haley Hartman
+ORD-1101,2024-10-10,Least,445.41,Kayla Cruz
+ORD-1102,04-17-2024,Part,144.47,Andrew Graham
+ORD-1103,"Nov 20, 2024",Nature,105.78,Kimberly Ball
+ORD-1104,2024/13/01,Site,255.18,Christina Reynolds
+ORD-1105,20/11/2024,Red,30.15,Lisa Alvarado
+ORD-1106,2024-01-02,Capital,141.96,Elizabeth Parker
+ORD-1107,2024-05-14,Issue,69.76,Michael Spencer
+ORD-1108,27/12/2024,Dark,223.71,Todd Byrd
+ORD-1109,,Weight,9.79,Keith Sullivan
+ORD-1110,2024-10-06,These,452.44,Dustin Jordan
+ORD-1111,2024-10-09,Particularly,187.76,Erica Ramos
+ORD-1112,06/06/2024,Republican,68.09,John Santana
+ORD-1113,"Jan 21, 2024",Style,466.88,Mary Campbell
+ORD-1114,05-07-2024,Record,108.99,Frances Cardenas
+ORD-1115,"Oct 13, 2024",Society,180.07,Eric Drake
+ORD-1116,11-13-2024,Choice,206.16,David Alvarez
+ORD-1117,"May 01, 2024",To,463.25,Joy Mercado
+ORD-1118,"Mar 31, 2024",Parent,488.22,Michael Snyder
+ORD-1119,06-19-2024,Either,17.27,Michael Stafford
+ORD-1120,"Dec 08, 2024",Traditional,208.8,Ashley Coleman
+ORD-1121,2024-05-16,Control,406.32,Melissa Marshall
+ORD-1122,"Jul 14, 2024",Onto,352.13,Ryan Bryant
+ORD-1123,2024-04-23,Suddenly,430.0,Joseph Hansen
+ORD-1124,2024-06-28,Free,459.63,Stephanie Salazar
+ORD-1125,2024-04-26,Serve,398.7,Jessica Meadows
+ORD-1126,2024-07-23,Like,331.72,Natasha Wells
+ORD-1127,22/05/2024,Event,432.85,Sara Ramirez
+ORD-1128,tbd,Star,257.16,Lori Hill
+ORD-1129,2024-01-15,Bank,168.92,Cynthia Rogers
+ORD-1130,01/04/2024,Walk,485.35,Brenda Hall
+ORD-1131,2024-01-20,Rule,491.86,Daniel Perry
+ORD-1132,09/06/2024,Give,220.11,Jennifer Clark
+ORD-1133,29/02/2024,Kitchen,492.2,Randy Shah
+ORD-1134,2024-05-10,Again,290.41,Pamela James
+ORD-1135,tbd,According,220.85,Elizabeth Price
+ORD-1136,2024-12-09,Wait,344.99,Jennifer Adkins
+ORD-1137,tbd,Office,218.49,Stephanie Freeman
+ORD-1138,03-04-2024,Explain,160.39,Allen Rogers
+ORD-1139,06-07-2024,Respond,153.66,Misty Pittman
+ORD-1140,2024-12-22,Wide,166.46,Marcus Johnson
+ORD-1141,08-03-2024,Indeed,68.01,Mary Miller
+ORD-1142,03-30-2024,Later,192.68,Joel Williams
+ORD-1143,"Oct 07, 2024",Hundred,153.97,Jesse Rogers
+ORD-1144,17/04/2024,Until,155.42,Paul Decker
+ORD-1145,2024-12-01,Entire,292.09,Julie Curry
+ORD-1146,2024-12-11,Area,223.68,Mrs. Marie Harrington DDS
+ORD-1147,03-27-2024,Somebody,239.23,David Combs
+ORD-1148,12-05-2024,Pretty,145.47,Cameron Caldwell
+ORD-1149,04-30-2024,Organization,170.92,Julie Scott
+ORD-1150,2024-04-11,Home,116.2,Lawrence Adkins
+ORD-1151,08-31-2024,Building,27.88,Carla Collins
+ORD-1152,21/08/2024,Particular,385.4,Eric Byrd
+ORD-1153,04-09-2024,How,316.73,Miguel Jones
+ORD-1154,2024-07-23,Rock,195.07,Dana Terry
+ORD-1155,"Jan 03, 2024",Fish,329.75,Lindsay Martinez
+ORD-1156,02-24-2024,Others,430.92,Hannah Patterson
+ORD-1157,22/12/2024,Hospital,113.33,Matthew Smith
+ORD-1158,unknown,Kitchen,29.86,Ashley Yu
+ORD-1159,08-25-2024,Prove,230.95,Julia Hernandez
+ORD-1160,2024-10-31,Control,494.01,Tracie Nelson
+ORD-1161,08-14-2024,System,378.85,Patricia Marshall
+ORD-1162,15/09/2024,That,361.04,Debra Christian
+ORD-1163,"Aug 16, 2024",Then,453.89,Diana Hayes
+ORD-1164,31/08/2024,Social,373.11,Leonard Gray
+ORD-1165,2024-11-22,Air,377.13,Frederick Freeman MD
+ORD-1166,09-05-2024,Evening,389.95,Spencer Haynes
+ORD-1167,02-09-2024,Fact,140.93,Kellie Lee
+ORD-1168,2024-06-20,Effort,121.07,Katherine Chang
+ORD-1169,2024-03-11,Rock,272.38,Michael West
+ORD-1170,03-19-2024,Adult,194.6,Daniel Holt
+ORD-1171,2024-07-27,Follow,36.79,Jackie Tran
+ORD-1172,2024-02-01,Guy,235.63,Patrick Rivera
+ORD-1173,unknown,Scientist,212.97,Eric Hall
+ORD-1174,21/10/2024,Set,429.08,Bryan Herrera
+ORD-1175,2024-06-29,Sound,7.92,Cheryl Rodgers
+ORD-1176,02/08/2024,Factor,198.04,Vanessa Warren
+ORD-1177,"Nov 04, 2024",Fear,368.64,Dr. Elizabeth Ward
+ORD-1178,19/05/2024,Five,246.67,Joseph Hill
+ORD-1179,06-21-2024,Arm,19.37,Melissa Martinez
+ORD-1180,"Mar 25, 2024",Trouble,400.08,Ashley Smith
+ORD-1181,14/11/2024,Feel,460.17,Jeremiah Lopez
+ORD-1182,30/10/2024,Approach,453.93,Scott Wilson
+ORD-1183,25/11/2024,Attention,18.42,Benjamin Soto
+ORD-1184,2024-04-03,Argue,434.09,Robert Avery
+ORD-1185,18/04/2024,Bed,192.66,Bailey Duran DDS
+ORD-1186,2024-07-13,Street,172.06,Patricia James
+ORD-1187,2024-08-03,When,475.85,Scott Branch
+ORD-1188,01-10-2024,Focus,45.54,Amy Choi
+ORD-1189,2024-06-28,Bit,30.78,Christine Clark
+ORD-1190,2024-11-29,Recent,38.97,David Arnold
+ORD-1191,2024-05-06,Close,20.36,Jerry Wheeler
+ORD-1192,2024-03-19,Film,15.09,Dwayne Campbell
+ORD-1193,28/02/2024,Trade,239.41,Michael Bradshaw
+ORD-1194,2024-12-24,Store,112.89,Leah Lara
+ORD-1195,11-06-2024,Decade,187.6,Joshua Holland
+ORD-1196,02-28-2024,When,375.22,Charles Brown
+ORD-1197,2024-06-08,Structure,86.06,Paul Carroll
+ORD-1198,08/06/2024,Fight,17.71,John Torres
+ORD-1199,11/07/2024,Interesting,454.47,Kathryn Snyder
+ORD-1200,08/02/2024,Be,358.93,Stacy Navarro
+ORD-1201,2024-05-04,Pm,416.13,Brandon Hayden
+ORD-1202,12-16-2024,Think,387.38,Laurie Smith
+ORD-1203,10-16-2024,Southern,64.92,Debra Williams
+ORD-1204,08-07-2024,Something,176.87,Joseph Ramos
+ORD-1205,2024-11-27,Fall,39.13,Kevin Walters
+ORD-1206,2024-09-07,Million,425.54,Julie Ortiz
+ORD-1207,"Nov 21, 2024",Full,480.59,Shannon Rivera
+ORD-1208,19/03/2024,Rule,232.57,Matthew Morales DDS
+ORD-1209,2024-11-29,Although,368.23,Ernest Morris
+ORD-1210,10-02-2024,Spring,405.06,Jose Travis
+ORD-1211,2024-10-30,Really,235.11,Julia Brown
+ORD-1212,2024-02-14,National,426.6,Peter Garrett
+ORD-1213,25/08/2024,Soon,228.15,Derek Anderson
+ORD-1214,2024-06-21,Field,335.75,Michael Martinez
+ORD-1215,03/04/2024,Professor,426.22,Cynthia Moore
+ORD-1216,2024-05-12,Ok,180.64,Jason Walker
+ORD-1217,"Dec 25, 2024",Thought,440.76,Julia Wilson
+ORD-1218,unknown,There,280.12,Timothy Carter
+ORD-1219,27/07/2024,Season,124.47,Ruben Baird
+ORD-1220,19/12/2024,Either,380.29,Charles Lee
+ORD-1221,08-17-2024,Place,357.36,Sherry Shields
+ORD-1222,23/04/2024,Fact,51.06,Sarah Morgan
+ORD-1223,05/12/2024,Store,125.44,Samantha Campbell
+ORD-1224,2024-09-28,Fire,239.26,Lauren Keller
+ORD-1225,2024-10-08,Tree,498.33,Joshua Reed
+ORD-1226,2024-05-18,Old,352.91,Jamie Cantu
+ORD-1227,2024-04-08,True,119.12,Michael Armstrong
+ORD-1228,2024-12-19,East,372.73,Jennifer Flores
+ORD-1229,2024-09-04,Material,112.11,Roberta Hughes
+ORD-1230,25/09/2024,Record,296.85,Marissa Hernandez
+ORD-1231,2024-04-09,Although,490.35,Vincent Rivera
+ORD-1232,2024-06-03,Black,183.64,Jessica Fox
+ORD-1233,2024-05-20,Loss,269.4,Charles Pitts
+ORD-1234,05-29-2024,Clear,31.99,Richard Baker
+ORD-1235,2024-09-08,Price,67.51,Marie Christian
+ORD-1236,25/05/2024,Together,11.07,Kimberly Finley
+ORD-1237,pending,Produce,223.03,Olivia Brennan
+ORD-1238,2024-09-01,Also,470.83,Cynthia Cohen
+ORD-1239,2024-09-08,Field,37.35,Nicole Hamilton MD
+ORD-1240,2024-01-28,Property,316.58,Ashlee Jackson
+ORD-1241,2024-06-04,Firm,406.52,Amber Flynn
+ORD-1242,10-12-2024,Finally,127.85,Jeffrey Sanchez
+ORD-1243,2024-11-12,Its,305.13,Rebecca Jackson
+ORD-1244,pending,Bar,263.67,Janet Vega
+ORD-1245,2024-08-07,Modern,430.78,Briana Murray
+ORD-1246,unknown,Environmental,312.41,Michael Nolan
+ORD-1247,04-16-2024,Make,474.06,Megan Moore
+ORD-1248,2024-02-11,Letter,136.0,Victoria Evans
+ORD-1249,2024-02-08,Language,91.04,Joyce Turner
+ORD-1250,18/12/2024,If,207.22,Ashley James
+ORD-1251,2024-04-28,Her,149.17,Wendy Phillips
+ORD-1252,2024-08-20,Themselves,144.95,Denise Knight
+ORD-1253,05-15-2024,Rich,120.54,Valerie Lozano
+ORD-1254,"Dec 04, 2024",Skill,314.4,Tanner Mitchell DDS
+ORD-1255,28/02/2024,Policy,102.92,Colleen Lee
+ORD-1256,"May 16, 2024",Enough,325.58,Michelle Hopkins
+ORD-1257,03-25-2024,This,40.35,Brent Burton
+ORD-1258,2024.10.18,Among,299.55,Jeremiah Riley
+ORD-1259,2024-12-18,Sign,66.56,Theodore Murphy
+ORD-1260,19/05/2024,Just,204.24,Carlos Ryan
+ORD-1261,11/02/2024,History,249.43,Susan Rivas
+ORD-1262,06-14-2024,Even,445.26,Terry Coffey
+ORD-1263,2024/13/01,Find,17.8,Gina Wilson
+ORD-1264,2024/13/01,Bag,430.96,Vincent Dalton
+ORD-1265,17/05/2024,Shake,337.78,Jennifer Singleton
+ORD-1266,30/03/2024,Onto,382.74,Richard Smith
+ORD-1267,2024-05-22,Not,327.5,Jacob Curry
+ORD-1268,"Nov 21, 2024",Everybody,294.74,Samantha Bentley
+ORD-1269,2024-08-28,Box,484.68,Kaitlyn Harvey
+ORD-1270,2024-12-09,Yes,169.99,Suzanne Walker
+ORD-1271,07-29-2024,At,84.61,Julie Haynes
+ORD-1272,"Jul 24, 2024",Range,147.67,Charles Shah
+ORD-1273,2024-08-20,Fly,277.3,Audrey Young DDS
+ORD-1274,2024.02.29,Important,129.94,Michael Paul
+ORD-1275,01-01-2024,Young,433.13,Laurie Barber
+ORD-1276,2024-07-30,Value,273.58,Brett Burns
+ORD-1277,11-14-2024,Involve,261.63,Diana Vaughn
+ORD-1278,2024-01-27,Director,314.58,Trevor Foley
+ORD-1279,27/05/2024,Bit,276.86,Mrs. Stephanie Newman
+ORD-1280,2024-03-03,Ask,350.63,Colton Martinez
+ORD-1281,05-02-2024,Thus,316.86,Anna Lewis
+ORD-1282,08/01/2024,Purpose,158.82,Alison Buchanan
+ORD-1283,28/02/2024,Either,51.14,Rachel Harris DVM
+ORD-1284,19/03/2024,Once,63.15,Daniel Kane
+ORD-1285,09-17-2024,Get,359.72,Rachel Carlson
+ORD-1286,N/A,Factor,210.67,Brianna Anderson
+ORD-1287,15/03/2024,Enough,231.11,Ashley Delacruz
+ORD-1288,09-17-2024,Catch,461.32,Richard Young
+ORD-1289,2024-02-05,Game,72.57,Derek Martinez
+ORD-1290,2024-07-31,Know,396.05,Nichole Alvarez
+ORD-1291,"May 16, 2024",Star,394.92,Kevin Hayes
+ORD-1292,"Jun 01, 2024",Do,145.01,Amanda Logan
+ORD-1293,03/12/2024,Trial,292.06,Elizabeth Schneider
+ORD-1294,02/10/2024,Allow,78.55,John Morales
+ORD-1295,05/10/2024,Rich,169.56,Micheal Wallace
+ORD-1296,N/A,Way,466.76,Lee Jones
+ORD-1297,"Apr 29, 2024",Face,288.04,Lauren Joseph
+ORD-1298,06-11-2024,I,208.33,Kerry Chavez DDS
+ORD-1299,14/07/2024,Bit,354.09,Ashley Pena
+ORD-1300,2024.11.29,Understand,333.53,Michelle Lewis
+ORD-1301,05/03/2024,Live,482.59,Jennifer Wilcox
+ORD-1302,"Feb 21, 2024",Inside,297.14,Brandon Simmons
+ORD-1303,unknown,Reduce,222.95,Troy Mcdaniel
+ORD-1304,"Jul 28, 2024",Matter,362.61,Ronald Davis
+ORD-1305,08/02/2024,Big,485.13,Jacqueline Anderson
+ORD-1306,06-22-2024,As,484.76,Kristina Rivera
+ORD-1307,"Feb 11, 2024",Can,201.75,Shane Pugh
+ORD-1308,30/09/2024,Land,426.91,Michelle Schmitt
+ORD-1309,"Sep 06, 2024",Plan,161.75,Brian Romero
+ORD-1310,2024-02-05,Clear,22.77,Courtney Rodriguez
+ORD-1311,,Through,343.78,Ashley Ramirez
+ORD-1312,02-20-2024,Draw,49.74,Sarah Villegas
+ORD-1313,21/02/2024,Tell,353.43,Megan Hawkins
+ORD-1314,2024-01-15,Politics,348.53,Sandra Adams
+ORD-1315,30/05/2024,Couple,399.09,Phillip Dorsey
+ORD-1316,05/05/2024,Have,218.19,Sergio Knight
+ORD-1317,2024-04-02,Institution,285.13,Patrick Bonilla
+ORD-1318,07-14-2024,Benefit,44.09,Cindy Barnes
+ORD-1319,2024-10-25,Growth,124.21,Eric Nguyen
+ORD-1320,10/05/2024,Year,233.27,Angela Williams
+ORD-1321,,Coach,335.09,Amber Miller
+ORD-1322,07/02/2024,Level,275.57,Karla Ramos
+ORD-1323,2024-10-27,Explain,176.05,Jose Reed
+ORD-1324,2024-12-19,Bring,481.2,Michael Tucker
+ORD-1325,2024/13/01,Region,423.43,Daniel Joyce
+ORD-1326,01/05/2024,Around,244.19,Eric Clark
+ORD-1327,pending,Certain,182.68,Donna Wilson
+ORD-1328,03/12/2024,Modern,15.86,Casey James
+ORD-1329,12-17-2024,Score,9.01,Justin Barnett
+ORD-1330,11-06-2024,Health,486.93,Scott Williams
+ORD-1331,05-26-2024,After,417.26,Blake Edwards
+ORD-1332,2024-06-29,Laugh,118.91,Michelle Butler
+ORD-1333,05-08-2024,Building,99.12,Vincent Jackson
+ORD-1334,12-03-2024,Yourself,361.86,Sandra Gillespie
+ORD-1335,,Behavior,72.71,Brian Graham
+ORD-1336,2024-08-13,Institution,24.51,Jennifer Collins
+ORD-1337,2024-03-08,Group,185.61,Richard Jones
+ORD-1338,2024-07-31,Property,151.08,Jordan Bullock
+ORD-1339,"Oct 03, 2024",Happy,70.42,Tyler Brewer
+ORD-1340,2024/13/01,Choose,186.1,Charles Gonzalez
+ORD-1341,pending,Play,86.45,Peter Jones
+ORD-1342,"Jun 22, 2024",Spring,374.55,Julie Elliott
+ORD-1343,2024-02-08,Particularly,236.82,Thomas Cunningham
+ORD-1344,12-12-2024,Prove,483.42,Mrs. Tricia Stewart
+ORD-1345,12/10/2024,Less,490.07,Jeremy Turner
+ORD-1346,2024-01-08,Face,396.39,Heather Jones
+ORD-1347,07-07-2024,Main,66.18,Anthony Decker
+ORD-1348,26/10/2024,Ball,337.81,Vanessa Davis
+ORD-1349,2024-07-09,Phone,321.08,Julie Spencer
+ORD-1350,01-13-2024,Strong,120.74,Amanda Stout
+ORD-1351,N/A,Owner,471.87,Erica Alvarez
+ORD-1352,"Nov 21, 2024",City,325.59,Joanna Shepherd
+ORD-1353,06-03-2024,Third,455.15,Miguel Wagner
+ORD-1354,pending,Consider,62.75,Michael Ritter
+ORD-1355,2024-02-29,Need,497.98,Caitlin Watson
+ORD-1356,10/03/2024,Fear,444.19,Raymond Shelton
+ORD-1357,2024.12.22,Area,188.65,Maria Jones
+ORD-1358,"Mar 20, 2024",Between,295.73,Jasmine King
+ORD-1359,09-07-2024,Together,329.19,Susan Marks
+ORD-1360,2024-05-23,Goal,469.83,Matthew Rangel
+ORD-1361,15/08/2024,Force,188.41,Melissa Myers
+ORD-1362,2024-07-04,Physical,121.88,Angela Hansen
+ORD-1363,,Question,344.41,Robin Santiago
+ORD-1364,2024-07-22,Them,182.54,Yolanda Gaines
+ORD-1365,2024-08-20,Better,484.26,Jessica Cox
+ORD-1366,23/11/2024,Him,109.99,Trevor Peterson
+ORD-1367,2024-06-19,Space,15.57,Mr. Chad Jones
+ORD-1368,2024-10-16,Three,67.33,Katie Fernandez
+ORD-1369,2024-10-10,Single,415.76,Amanda Rogers
+ORD-1370,2024-04-29,Space,111.9,Linda Moore
+ORD-1371,2024-11-01,Course,78.04,Patricia Lamb
+ORD-1372,tbd,Company,429.91,Amanda Diaz
+ORD-1373,2024-03-30,Serve,129.07,Jeremy Mitchell
+ORD-1374,2024-03-08,Smile,433.89,Cynthia Allen
+ORD-1375,01/05/2024,Table,396.04,Stephanie Lee
+ORD-1376,2024-05-15,Resource,12.81,Victoria Murray
+ORD-1377,2024-09-26,Father,372.15,Kathryn Barnes
+ORD-1378,08-17-2024,Color,36.46,Rebecca Taylor
+ORD-1379,25/02/2024,Enough,259.05,John Watson
+ORD-1380,2024-11-10,World,114.67,Ryan Rosales
+ORD-1381,03/12/2024,Feel,392.7,Christopher Cole
+ORD-1382,2024-01-16,Must,231.73,Jeffrey Potts
+ORD-1383,24/07/2024,Doctor,242.1,Stacey Arias
+ORD-1384,unknown,Join,58.44,Jonathan Young
+ORD-1385,06-13-2024,Beat,450.14,Alfred Galvan
+ORD-1386,05-20-2024,Those,37.51,Gabriela Thomas
+ORD-1387,2024-12-30,American,294.76,Ronald Horton
+ORD-1388,2024-09-28,Chair,497.34,Julie Gilbert
+ORD-1389,2024-08-08,Western,255.25,David Conley
+ORD-1390,12-01-2024,Official,352.38,Lisa Henderson
+ORD-1391,20/04/2024,Stand,385.64,Eric Williams
+ORD-1392,2024-07-30,Kind,444.61,Lisa Brown
+ORD-1393,07-31-2024,Think,229.48,Linda Smith
+ORD-1394,06-09-2024,Myself,159.71,Michelle Carter
+ORD-1395,03-19-2024,Ability,190.28,Cynthia Butler
+ORD-1396,"Feb 16, 2024",Red,239.76,Kelly Ward
+ORD-1397,02-19-2024,Never,51.15,Rachel Romero
+ORD-1398,07/03/2024,Again,189.46,John Reid
+ORD-1399,14/10/2024,Hour,295.3,Alan Kramer
+ORD-1400,29/07/2024,Hair,336.66,Matthew Garcia
+ORD-1401,"Aug 04, 2024",Party,334.34,Evelyn Williams
+ORD-1402,05-27-2024,Office,361.93,Marvin Greer
+ORD-1403,22/10/2024,Reveal,179.06,Michael Welch
+ORD-1404,2024-09-03,Talk,81.59,Mike Acevedo
+ORD-1405,11/10/2024,Although,58.57,Andrew Gonzalez
+ORD-1406,2024-10-20,Analysis,382.49,Eric Sanders
+ORD-1407,2024/13/01,Teacher,217.41,Dawn Mullins
+ORD-1408,12-11-2024,Cut,312.75,Scott Williams
+ORD-1409,"Dec 02, 2024",Reality,18.0,Caleb Richardson
+ORD-1410,2024-04-02,Visit,137.39,Jeremiah Huber
+ORD-1411,22/06/2024,Group,382.39,Kathleen Jimenez
+ORD-1412,14/03/2024,Window,94.8,Debra Miller
+ORD-1413,03-13-2024,Language,203.39,Lance Short
+ORD-1414,02-16-2024,Offer,486.05,Brian Murphy
+ORD-1415,02/08/2024,Find,111.49,Lance Simmons
+ORD-1416,06-08-2024,Road,82.92,Jeremy Acosta
+ORD-1417,17/10/2024,Which,389.53,Zachary Hill
+ORD-1418,2024-03-20,Strong,442.25,Angela Walsh
+ORD-1419,2024-12-11,Himself,310.83,Nicole Moore
+ORD-1420,05/08/2024,Allow,224.34,Lawrence Harrington
+ORD-1421,2024-05-19,Already,223.81,David Brewer
+ORD-1422,25/06/2024,High,258.61,Keith Jacobs
+ORD-1423,13/12/2024,Respond,145.21,Jacob Wallace
+ORD-1424,2024-06-06,Ball,265.83,Kendra Sanders
+ORD-1425,2024-11-02,Rate,200.66,Tyler Johnson
+ORD-1426,04-18-2024,Cultural,106.19,Mr. Justin Green III
+ORD-1427,2024-05-28,Like,383.26,Logan Benson
+ORD-1428,2024-08-08,Military,8.83,Chad Jones
+ORD-1429,2024-12-26,Consider,193.2,Jill Miller
+ORD-1430,"Dec 08, 2024",Rest,281.57,Victoria Contreras
+ORD-1431,22/01/2024,Security,40.68,Joshua Vance
+ORD-1432,"Feb 09, 2024",Today,232.58,Michael Graves
+ORD-1433,20/10/2024,Contain,290.0,Katie Martinez
+ORD-1434,2024-05-28,Deep,321.87,Cynthia Snyder
+ORD-1435,2024-06-15,Herself,15.32,Jackie Lara
+ORD-1436,"Aug 23, 2024",Ok,474.07,Stephen Jones
+ORD-1437,15/02/2024,Information,460.29,Dr. Kelly Hammond DVM
+ORD-1438,11/08/2024,Back,57.4,Evan Jones
+ORD-1439,"Jul 21, 2024",Man,264.36,Haley Humphrey
+ORD-1440,2024-04-23,State,374.17,Laurie Saunders
+ORD-1441,09-18-2024,Carry,88.23,Thomas Brown
+ORD-1442,pending,Capital,267.65,Elizabeth Martin
+ORD-1443,"Nov 26, 2024",Worry,178.79,Hannah Everett
+ORD-1444,2024-03-15,Want,121.95,Blake Gonzalez
+ORD-1445,03-19-2024,Ok,90.88,Mario Mendez
+ORD-1446,,Better,329.48,Caroline David
+ORD-1447,10-15-2024,Class,249.59,Marcus Winters
+ORD-1448,10-16-2024,Green,227.21,Kristy Bryan
+ORD-1449,"Jun 14, 2024",Air,493.33,Travis Wise
+ORD-1450,18/03/2024,Evidence,315.47,Pamela Butler
+ORD-1451,2024-11-19,Purpose,237.12,Stephen Gardner
+ORD-1452,29/01/2024,Quality,140.96,Karen Ballard
+ORD-1453,24/08/2024,Reveal,41.72,Jesse Barker
+ORD-1454,2024-05-26,Coach,33.16,John Harris
+ORD-1455,02-16-2024,Policy,432.8,Scott Flores
+ORD-1456,24/08/2024,Traditional,256.0,James Hodges
+ORD-1457,22/01/2024,Myself,477.34,Emma Owens
+ORD-1458,2024-11-29,Example,405.86,Charles Williams
+ORD-1459,2024-09-13,Young,304.48,Luis Wright
+ORD-1460,"Feb 22, 2024",Tree,35.63,Robin Peck
+ORD-1461,2024-12-31,Set,419.5,Phillip Jimenez
+ORD-1462,2024-01-21,Myself,324.83,Shawn Jimenez
+ORD-1463,12/08/2024,Believe,221.69,Kathy Levy
+ORD-1464,05/07/2024,Dinner,306.85,Amber Campbell
+ORD-1465,07-28-2024,Picture,145.03,Martha Ruiz
+ORD-1466,01-27-2024,Not,341.05,Brian Anderson
+ORD-1467,2024-02-03,Everything,325.42,Pamela Diaz
+ORD-1468,2024-07-16,Institution,281.19,Justin Cox
+ORD-1469,tbd,Fight,363.25,Jonathan Duran
+ORD-1470,2024-06-19,Far,437.27,Lisa Carr
+ORD-1471,2024-06-28,Career,333.49,Jennifer Norton
+ORD-1472,05/12/2024,Group,329.75,Holly Thomas
+ORD-1473,2024-02-13,Play,299.55,Kathryn Williams
+ORD-1474,"Jun 17, 2024",Certain,191.46,Regina Stone
+ORD-1475,unknown,Church,336.71,Kaylee Murphy
+ORD-1476,04/08/2024,Position,324.78,James Jensen
+ORD-1477,2024-06-07,Thousand,14.02,George Clayton
+ORD-1478,2024-09-05,No,111.03,Justin Wells Jr.
+ORD-1479,2024-03-20,Glass,499.99,Veronica Silva
+ORD-1480,21/02/2024,Style,422.99,Shelby Soto
+ORD-1481,2024-09-26,Picture,272.19,Walter Patton
+ORD-1482,2024-11-12,Stand,171.7,Crystal Williams
+ORD-1483,2024-03-24,Media,191.48,Mark Harvey
+ORD-1484,"Nov 15, 2024",Thought,347.96,Roberto Allen
+ORD-1485,2024-08-12,Page,86.94,Ashley Smith
+ORD-1486,tbd,Former,185.33,Jason Harris
+ORD-1487,2024-08-17,More,146.04,Tami Salas
+ORD-1488,N/A,Simply,123.39,Michele Stone
+ORD-1489,2024.10.19,Option,187.08,Matthew Fox
+ORD-1490,14/07/2024,Former,385.87,Julia Patel
+ORD-1491,"Mar 23, 2024",Office,212.24,Raymond Le
+ORD-1492,"Mar 11, 2024",Question,401.62,Deborah Washington
+ORD-1493,"Sep 03, 2024",Employee,30.83,Edwin David
+ORD-1494,02-22-2024,Finish,279.5,Michele Vaughn
+ORD-1495,2024-03-04,Middle,260.38,Gregory Peck
+ORD-1496,19/05/2024,Stuff,382.74,Donna Berry
+ORD-1497,2024-08-11,Of,259.11,William Cardenas
+ORD-1498,"Aug 18, 2024",Spring,455.7,Donna Roberts
+ORD-1499,2024-07-31,Send,465.58,Thomas Douglas
