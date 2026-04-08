@@ -1,3 +1,14 @@
+---
+title: OpenEnv Data Engineering Pipeline
+emoji: 🔧
+colorFrom: blue
+colorTo: green
+sdk: docker
+sdk_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # OpenEnv: Advanced Multi-Table Data Engineering Pipeline
 
 tags: [openenv]
@@ -82,10 +93,6 @@ app.py            →  FastAPI server on port 7860 with /health
 docker build -t openenv-data-engineering .
 docker run -p 7860:7860 openenv-data-engineering
 ```
-
-## Hugging Face Spaces
-
-Deploy as a Docker Space. The server exposes `/health` on port 7860 returning HTTP 200.
 
 ## Project Structure
 
