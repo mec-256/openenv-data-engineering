@@ -60,9 +60,10 @@ Three progressively difficult tasks across three interconnected datasets:
 ## Baseline Agent Scores
 
 Using the default zero-shot implementation with `llama-3.3-70b-versatile`:
-- **Task 1 (Easy):** `1.00` — Full data cleaning achieved
-- **Task 2 (Medium):** `1.00` — Join repaired, metadata extracted
-- **Task 3 (Hard):** `1.00` — Full root cause analysis completed
+- **Task 1 (Easy):** `0.69` — Data cleaning achieved
+- **Task 2 (Medium):** `0.70` — Join repaired, metadata extracted
+- **Task 3 (Hard):** `0.55` — Full root cause analysis completed
+- **Average:** `0.65`
 
 ## Architecture
 
