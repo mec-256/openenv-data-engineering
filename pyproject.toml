@@ -12,38 +12,27 @@ license = {text = "MIT"}
 authors = [
     {name = "OpenEnv Team", email = "team@openenv.ai"}
 ]
-keywords = ["openenv", "data-engineering", "ai-evaluation", "machine-learning", "rl"]
+keywords = ["openenv", "data-engineering", "ai-evaluation"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10",
-    "Programming Language :: Python :: 3.11",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 
 dependencies = [
-    "openai==1.55.0",
-    "pydantic==2.9.2",
+    "openai>=1.0.0",
+    "pydantic>=2.0.0",
     "pandas>=2.0.0",
-    "Faker==20.0.0",
+    "Faker>=20.0.0",
     "fastapi>=0.104.0",
     "uvicorn>=0.24.0",
 ]
 
-[project.optional-dependencies]
-dev = [
-    "pytest>=7.0.0",
-    "black>=23.0.0",
-    "ruff>=0.1.0",
-]
+[project.scripts]
+server = "app:app"
 
-[project.urls]
-Homepage = "https://github.com/mec-256/openenv-data-engineering"
-Documentation = "https://github.com/mec-256/openenv-data-engineering#readme"
-
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["data*"]
-exclude = ["tests*", ".venv*", "__pycache__*"]
+[tool.setuptools]
+py-modules = []
