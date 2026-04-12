@@ -11,4 +11,6 @@ RUN python generate_data.py
 
 EXPOSE 7860
 
-CMD ["python", "-m", "server.app"]
+ENV PYTHONPATH=/app/server:$PYTHONPATH
+
+CMD ["python", "-m", "app"]
