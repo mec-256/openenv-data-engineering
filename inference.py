@@ -1,4 +1,9 @@
 import os
+import sys
+
+# Ensure current directory is in path for imports
+sys.path.insert(0, os.getcwd())
+
 import json
 from openai import OpenAI
 
