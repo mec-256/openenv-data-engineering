@@ -120,11 +120,21 @@ async def get_tasks():
         status_code=200,
         content={
             "tasks": [
-                {
-                    "id": task_id,
-                    "description": TASKS[task_id].description,
-                }
+                {"id": task_id, "description": TASKS[task_id].description}
                 for task_id in TASKS.keys()
             ]
         },
     )
+
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(app, host="0.0.0.0", port=7860)
+
+
+def main():
+    """Entry point for the server."""
+    import uvicorn
+
+    uvicorn.run("server.app:app", host="0.0.0.0", port=7860, reload=False)
