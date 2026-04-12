@@ -5,22 +5,10 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "openenv-data-engineering"
 version = "2.0.0"
-description = "Advanced Multi-Table Data Engineering Pipeline - AI Evaluation Environment"
+description = "Advanced Multi-Table Data Engineering Pipeline"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
-authors = [
-    {name = "OpenEnv Team", email = "team@openenv.ai"}
-]
-keywords = ["openenv", "data-engineering", "ai-evaluation"]
-classifiers = [
-    "Development Status :: 4 - Beta",
-    "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
-    "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.10",
-    "Topic :: Scientific/Engineering :: Artificial Intelligence",
-]
 
 dependencies = [
     "openai>=1.0.0",
@@ -29,10 +17,11 @@ dependencies = [
     "Faker>=20.0.0",
     "fastapi>=0.104.0",
     "uvicorn>=0.24.0",
+    "openenv-core>=0.2.0",
 ]
 
 [project.scripts]
-server = "app:app"
+openenv-server = "app:app"
 
 [tool.setuptools]
 py-modules = []

@@ -1,0 +1,8 @@
+# This file is required by the validator but may not be fully generated
+# The actual dependencies are in pyproject.toml
+version = 1
+[[package]]
+name = "openenv-data-engineering"
+version = "2.0.0"
+source = { editable = "." }
+dependencies = []
